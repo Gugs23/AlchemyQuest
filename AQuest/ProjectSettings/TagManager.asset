@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BackGround
+  - Escadas
+  - Player
+  - ForeGround
+  - MiddleGround
   - 
   - 
   - 
@@ -40,4 +40,31 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Back0
+    uniqueID: 1839643961
+    locked: 0
+  - name: Back1
+    uniqueID: 2147320261
+    locked: 0
+  - name: Back2
+    uniqueID: 4235524023
+    locked: 0
+  - name: Middle0
+    uniqueID: 1810010399
+    locked: 0
+  - name: Middle1
+    uniqueID: 2309022589
+    locked: 0
+  - name: Middle2
+    uniqueID: 1467947161
+    locked: 0
+  - name: Fore0
+    uniqueID: 3185767019
+    locked: 0
+  - name: Fore2
+    uniqueID: 2871167451
+    locked: 0
+  - name: Fore3
+    uniqueID: 1076677813
     locked: 0
